@@ -45,7 +45,7 @@ class _TrainingSeriesOverViewScreenState extends State<TrainingSeriesOverViewScr
               // SeriesLayoutWidget(trainingSeriesList: _trainingSeriesList);
             } else {
               const Text(
-                'Time Out',
+                'Time Out.',
               );
             }
           },
