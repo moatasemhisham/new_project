@@ -1,0 +1,124 @@
+{
+  "series_list": [
+    {
+      "series_id": "1",
+      "series_name" :"series 1",
+      "series_cover_photo": "https://t3.ftcdn.net/jpg/04/29/35/62/360_F_429356296_CVQ5LkC6Pl55kUNLqLisVKgTw9vjyif1.jpg",
+      "total_run_time":"03 hrs 08 mins",
+      "videos_number": 1,
+      "series_description":"Get ready for the ultimate fitness test. The challenge is a month long series designed to improve your strength, endurance, agility and flexibility.",
+      "series_difficulty":"Intermediate",
+      "series_intensity":"Level 4",
+      "coaches_list": [
+        {
+          "coach_id": "1",
+          "coach_name": "coach 1",
+          "coach_profile_url": "https://img.freepik.com/premium-photo/afro-latin-fitness-trainer-beautiful-illustration-picture-generative-ai_146671-95132.jpg",
+          "coach_bio": "This is coach 1 bio."
+        }
+
+        ],
+      "classes_List": [
+        {
+          "class_id": "1",
+          "class_title": "class 1",
+          "class_duration": "30 min",
+          "class_description ":   "This is class 1 description ",
+          "class_videos":[
+          {
+            "video_id": "1",
+            "video_title": "video 1",
+            "video_url": "89yP76HLtjc"
+          }
+        ]
+        }
+      ],
+      "community_posts": [
+        {
+          "post_id": "1",
+          "user_name": "user q",
+          "user_photo_url": "https://images.unsplash.com/photo-1589234217365-08d3e0e5cf42?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+          "series_name": "series 1",
+
+          "post_content": "This is a comment",
+          "post_time": "3 hours ago",
+          "likes_count": 4
+        }
+      ]
+    },
+    {
+      "series_id": "2",
+      "series_name" :"series 2",
+      "series_cover_photo": "https://t3.ftcdn.net/jpg/04/29/35/62/360_F_429356296_CVQ5LkC6Pl55kUNLqLisVKgTw9vjyif1.jpg",
+      "total_run_time":" 2 hrs 10 mins",
+      "videos_number": 3,
+      "series_description":"Get ready for the ultimate fitness test. The challenge is a month long series designed to improve your strength, endurance, agility and flexibility.",
+      "series_difficulty":" Beginners",
+      "series_intensity":"Level 1",
+      "coaches_list": [
+        {
+          "coach_id": "1",
+          "coach_name": "coach 1",
+          "coach_profile_url": "https://img.freepik.com/premium-photo/afro-latin-fitness-trainer-beautiful-illustration-picture-generative-ai_146671-95132.jpg",
+          "coach_bio": "This is coach 1 bio."
+        } , {
+          "coach_id": "2",
+          "coach_name": "coach 2",
+          "coach_profile_url": "https://img.freepik.com/premium-photo/afro-latin-fitness-trainer-beautiful-illustration-picture-generative-ai_146671-95132.jpg",
+          "coach_bio": "This is coach 2 bio."
+        }
+
+        ],
+      "classes_List": [
+        {
+          "class_id": "1",
+          "class_title": "class 1",
+          "class_duration": "10 min",
+          "class_description ":   "This is class 1 description ",
+          "class_videos":[
+          {
+            "video_id": "1",
+            "video_title": "video 1",
+            "video_url": "89yP76HLtjc"
+          }, {
+            "video_id": "2",
+            "video_title": "video 2",
+            "video_url": "89yP76HLtjc"
+          }
+        ]
+
+        }
+      ],
+      "community_posts": [
+        {
+          "post_id": "1",
+          "user_name": "user q",
+          "user_photo_url": "https://images.unsplash.com/photo-1589234217365-08d3e0e5cf42?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+          "series_name": "series 2",
+
+          "post_content": "This is a comment",
+          "post_time": "2 hours ago",
+          "likes_count": 10
+        } ,  {
+          "post_id": "2",
+          "user_name": "user 2",
+          "user_photo_url": "https://images.unsplash.com/photo-1589234217365-08d3e0e5cf42?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+          "series_name": "series 2",
+
+          "post_content": "This is a comment",
+          "post_time": "2 hours ago",
+          "likes_count": 5
+        } ,  {
+          "post_id": "3",
+          "user_name": "user 3",
+          "user_photo_url": "https://images.unsplash.com/photo-1589234217365-08d3e0e5cf42?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+          "series_name": "series 2",
+
+          "post_content": "This is a comment",
+          "post_time": "1 hours ago",
+          "likes_count": 6
+        }
+      ]
+    }
+  ]
+}
