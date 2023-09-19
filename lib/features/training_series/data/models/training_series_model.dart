@@ -7,7 +7,7 @@ class TrainingSeriesModel extends TrainingSeriesEntity {
   }) : super(seriesList: seriesList.orEmptyList());
 
   factory TrainingSeriesModel.fromJson(Map<String, dynamic> json) => TrainingSeriesModel(
-        seriesList: json["seriesList"] == null ? [] : List<SeriesListModel>.from(json["seriesList"].map((x) => SeriesListModel.fromJson(x))),
+        seriesList: json["series_list"] == null ? [] : List<SeriesListModel>.from(json["series_list"].map((x) => SeriesListModel.fromJson(x))),
       );
 }
 
